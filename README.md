@@ -44,3 +44,6 @@ From this map, we can see the darker purple colour indicates a higher amount of 
 
 # Usage 
 This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/jason-huynh83/Toronto-Crime/blob/master/Toronto_Crime.ipynb) as there are plotly graphs that are not shown.
+
+# Deployment 
+Deployment: Heroku and Netlify
