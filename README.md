@@ -1,7 +1,7 @@
 # Toronto Crime Analysis and Machine Learning
 ## Background
 - This project was intended to have a deeper understanding of crime in the city of Toronto. As a result, police reinforcement can reposition and station officers accordingly to neighbourhoods where there is a higher crime rate.
-- In addition, based on the data we will create a Machine Learning Classification model that will predict the type of crime that was involved based on the day/month/hour it was reported. Ultimately, we hope this model will navigate and guide police reinforcement on what type of crime they are dealing with.
+- In addition, based on the data, we will create a Machine Learning Classification model that will predict the type of crime that was involved based on the day/month/hour it was reported. Ultimately, we hope this model will navigate and guide police reinforcement on what type of crime they are dealing with.
 # Code and Resources Used
 - Python Version 3.8
 - Jupyter Notebook
